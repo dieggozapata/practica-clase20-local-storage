@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Palacio Paz Hotel",
+    "img": "https://palaciopazhotel.com/files/slider/thumbs/slide1.jpg",
+    "daily_price": "AR$17,305.00",
+    "stars": 4,
+    "city": "Buenos Aires",
+    "description": "Ubicado en una de las zonas mas prestigiosas de la ciudad y rodeado de historia Porteña, el Hotel Palacio Paz ofrece una ubicación única y una vista privilegiada a la reconocida Plaza San Martin.",
+    "wifi": true,
+    "air-conditioned": true,
+    "phone": "(011)5365-8610",
+    "email": "htl@gmail.com"
+  },
+  {
+    "name": "Puerto Norte Design Hotel",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/cc/17/36/puerto-norte-design-hotel.jpg?w=1100&h=-1&s=1",
+    "daily_price": "AR$39,932,00",
+    "stars": 4,
+    "city": "Rosario",
+    "description": "En Puerto Norte Design Hotel sabemos que necesitas un espacio para encontrar el tiempo para estar bien, un lugar donde cerrar o empezar un nuevo ciclo y te lo damos.",
+    "wifi": true,
+    "air_conditioned": true,
+    "phone": "0800-777-2700",
+    "email": "htl1@gmail.com"
+  },
+  {
+    "name": "Legado Mítico Buenos Aires",
+    "img": "https://legadomitico.com/bsas/wp-content/themes/mitico/images/ba/quienes-04.jpg",
+    "daily_price": "AR$88,279.00",
+    "stars": 4,
+    "city": "Buenos Aires",
+    "description": " Lo encontrarás en el corazón del barrio porteño de Palermo Soho, el más cool de la ciudad. El hotel está emplazado en lo que fue un antiguo conventillo, a pocas cuadras de plaza Serrano, rodeado de tiendas de diseño, bares y restaurantes de moda.",
+    "wifi": true,
+    "air_conditioned": true,
+    "phone": "(011)4833-1300",
+    "email": "htl2@gmail.com"
+  }
+]
